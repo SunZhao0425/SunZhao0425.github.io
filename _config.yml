@@ -1,0 +1,9 @@
+name: Alpha
+title: zhy的博客
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
+
+url: "http://localhost:4000"
+
+paginate: 10
+
